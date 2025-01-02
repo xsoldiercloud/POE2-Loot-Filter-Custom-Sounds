@@ -65,3 +65,12 @@ It is not affiliated with or endorsed by Grinding Gear Games or Neversink.
 
 **Note:** Users must provide their own `.ogg` sound files for use with this tool.
 
+### **Optional Support**:
+If you find this tool helpful, I’d appreciate any Divine Orb or Exalted Orb tips in-game!  
+IGNs:  
+- **Enchantrix**  
+- **LobbinHood**  
+- **Sillvannas**  
+
+This is completely optional, and the tool is free for everyone to use!  
+
