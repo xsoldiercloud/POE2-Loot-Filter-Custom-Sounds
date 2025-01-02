@@ -14,6 +14,8 @@ This tool allows you to update the sound rules for Divine Orbs and Exalted Orbs 
     ```
     Documents\My Games\Path of Exile
     ```
+- **Provide Your Own `.ogg` Files**:
+  - You must supply the `.ogg` sound files you wish to use for the Divine Orbs and Exalted Orbs.
 
 ---
 
@@ -59,5 +61,7 @@ This tool allows you to update the sound rules for Divine Orbs and Exalted Orbs 
 
 ## Disclaimer
 This tool is provided as-is without warranty. Use at your own risk.  
-It is not affiliated with or endorsed by Grinding Gear Games or Neversink.
+It is not affiliated with or endorsed by Grinding Gear Games or Neversink.  
+
+**Note:** Users must provide their own `.ogg` sound files for use with this tool.
 
