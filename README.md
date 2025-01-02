@@ -1,8 +1,8 @@
 # Loot Filter Customizer
 
 This tool allows you to update the sound rules for Divine Orbs and Exalted Orbs in an **unmodified Neversink loot filter**. The tool modifies the `.filter` file and copies the associated `.ogg` sound file to the correct location.
-
----
+## GUI Preview
+![Loot Filter Customizer GUI](loot_filter_GUI_image.png)
 
 ## How to Use
 
